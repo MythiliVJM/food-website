@@ -1,0 +1,29 @@
+.main-section{
+    margin-top: 158px;
+    width: 1225px;
+    height: 679px;
+    margin-left: 108px;
+
+
+}
+.heading{
+   width: 461px;
+   height: 84px;
+   margin-left: 108px;
+   
+}
+.heading h3{
+    font-family: Source Sans Pro;
+font-size: 56px;
+font-weight: 600px;
+line-height: 42px;
+letter-spacing: 0.04em;
+text-align: left;
+color:  #0E2368;
+
+
+}
+.card-list{
+    display: flex;
+    flex-direction:row;
+}

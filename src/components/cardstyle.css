@@ -1,0 +1,21 @@
+.container{
+    height: 554px;
+    width: 381px;
+ 
+    margin-left: 108px;
+    border: 1 px solid gray;
+}
+
+.content{
+    width:295.02px;
+    height:194.52px;
+    margin-top:30px;
+    text-align:justify;
+    padding-left: 30px;
+}
+#card-img{
+        width: 326px;
+        height: 257px;
+        margin-top: 5px;
+        margin-left: 5px;
+}

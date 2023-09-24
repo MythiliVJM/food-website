@@ -1,0 +1,57 @@
+.about{
+    margin-top: 185px;
+    width: 1440px;
+    height: 467px;
+    display: flex;
+    flex-direction: row;
+    
+}
+.image-section img{
+        width:384px;
+        height: 468px;
+        margin-left: 205px;
+        margin-top: 50px;
+}
+.content-section{
+    width: 447px;
+    height: 254px;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.heading{
+    width: 422px;
+    height: 26px;
+}
+.heading h3{
+    color:  #0E2368;
+    font-family: "Poppins";
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.paragraph{
+    width: 447px;
+    height: 138px;
+}
+.paragraph p{
+    font-family: "Open Sans";
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+button{
+    width: 132px;
+    height: 42px;
+    padding: 3px, 26px, 3px, 26px;
+    border-radius: 21px;
+    gap: 10px;
+    background-color:#E23744;
+    color: white;
+    border: 0cm;
+
+}

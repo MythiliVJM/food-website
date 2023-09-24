@@ -1,0 +1,20 @@
+.contact{
+    height: 362px;
+    width: 1440px;
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 161px;
+    height: 125px;
+    margin-top: 158px;
+    margin-left: 104px;
+
+}
+#contact-us{
+    width: 232px;
+    height: 186px;
+    margin-top: 148px;
+    margin-left: 275px;
+
+}
